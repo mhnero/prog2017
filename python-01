@@ -1,0 +1,75 @@
+import turtle
+turtle = turtle.Turtle()
+turtle.position()
+
+t.home()
+t.clear()
+
+for x in range(4):
+  t.forward(200)
+  t.left(90)
+<空行>
+
+for x in range(5):
+  t.forward(200)
+  t.left(120)
+
+
+for x in range(5):
+  t.forward(200)
+  t.left(150)
+
+for x in range(5):
+  t.forward(200)
+  t.left(144)
+
+for x in range(360):
+  t.forward(50)
+  t.left(1)
+
+for x in range(360):
+  t.forward(1)
+  t.left(1)
+
+t.forward(100)
+t.up()
+t.forward(100)
+t.down()
+t.forward(100)
+
+
+for x in range(4):
+  t.forward(50)
+  t.left(90)
+t.up()
+t.forward(60)
+t.down()
+for x in range(4):
+  t.forward(50)
+  t.left(90)
+t.up()
+t.right(90)
+t.forward(60)
+t.left(90)
+t.down()
+for x in range(4):
+  t.forward(50)
+  t.left(90)
+t.left(180)
+t.up()
+t.forward(60)
+t.left(180)
+t.down()
+for x in range(4):
+  t.forward(50)
+  t.left(90)
+
+
+for x in range(4):
+  t.up()
+  t.forward(20)
+  t.down()
+  for x in range(4):
+    t.forward(100)
+    t.left(90)
+  t.left(-90)
