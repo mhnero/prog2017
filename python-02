@@ -1,0 +1,54 @@
+t.home()
+t.clear()
+
+問題147
+for x in range(4):
+  t.forward(100)
+  t.left(-90)
+t.left(90)
+t.forward(10)
+for x in range(4):
+  t.forward(100)
+  t.left(-90)
+  t.up()
+  t.forward(14)
+  t.down()
+  t.left(-90)
+  t.forward(100)
+  t.left(-90)
+  
+def rect(x,y,a)
+  t.up()
+  t.home()
+  t
+
+  
+t.clear()
+rect(0,0,100)
+rect(-120,0,100)
+
+for x in [0.20.40.60.80.100]:
+  yline(x,120,100)
+  yline(x,-120,100
+  
+  
+問題153
+def func(v):
+  i=3
+  return i
+
+問題154
+def func(v):
+  i=v+3
+  return i
+  
+問題158
+def center_circle(x,y,r):
+  turtle.penup()
+  turtle.forward(200)
+  turtle.left(90)
+  turtle.pendown()
+  turtle.circle(200)
+  turtle.left(90)
+  turtle.penup()
+  turtle.forward(200)
